@@ -5,6 +5,10 @@
 - 🔭 I’m currently working on Java and Angular.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on ANgular, Java and Microservices using Spring boot.
+
+<h4>Connect with me</h4>
+https://www.linkedin.com/in/umesh-kumar-yadav
+ 
 <!--
 **hello-umesh/hello-umesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
