@@ -2,7 +2,6 @@
 
 <h2>I'm a Developer, Tech Lead and Web Technology Enthusiastic</h2>
 
-------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on Java and Angular.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on ANgular, Java and Microservices using Spring boot.
